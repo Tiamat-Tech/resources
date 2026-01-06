@@ -101,6 +101,8 @@
 
 - [Collaborative Software Design](https://www.manning.com/books/collaborative-software-design) : Book about effectively involving all stakeholders in the design of software, designed to teach facilitating software design decisions via visual collaborative modeling in a team.
 
+- [The Art of Code](https://www.manning.com/books/the-art-of-code) : A practical guide to recognizing and creating desirable code qualities, such as simplicity, purity, and expressiveness, that are demonstrably beneficial to you and your team, applicable to virtually any codebase, and beautiful.
+
 ## React
 
 - [The Road to learn React](https://leanpub.com/the-road-to-learn-react): a free ebook by Robin Wieruch where you build a Hacker News clone
