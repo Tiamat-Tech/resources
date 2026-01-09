@@ -101,7 +101,9 @@
 
 - [Collaborative Software Design](https://www.manning.com/books/collaborative-software-design) : Book about effectively involving all stakeholders in the design of software, designed to teach facilitating software design decisions via visual collaborative modeling in a team.
 
- - [The Coder Cafe](https://www.manning.com/books/the-coder-cafe) : 66 vital software engineering concepts that will upgrade your day-to-day practice, regardless of your skill level.
+- [The Art of Code](https://www.manning.com/books/the-art-of-code) : A practical guide to recognizing and creating desirable code qualities, such as simplicity, purity, and expressiveness, that are demonstrably beneficial to you and your team, applicable to virtually any codebase, and beautiful.
+
+- [The Coder Cafe](https://www.manning.com/books/the-coder-cafe) : 66 vital software engineering concepts that will upgrade your day-to-day practice, regardless of your skill level.
 
 ## React
 
