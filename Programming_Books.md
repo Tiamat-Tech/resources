@@ -101,6 +101,8 @@
 
 - [Collaborative Software Design](https://www.manning.com/books/collaborative-software-design) : Book about effectively involving all stakeholders in the design of software, designed to teach facilitating software design decisions via visual collaborative modeling in a team.
 
+ - [The Coder Cafe](https://www.manning.com/books/the-coder-cafe) : 66 vital software engineering concepts that will upgrade your day-to-day practice, regardless of your skill level.
+
 ## React
 
 - [The Road to learn React](https://leanpub.com/the-road-to-learn-react): a free ebook by Robin Wieruch where you build a Hacker News clone
