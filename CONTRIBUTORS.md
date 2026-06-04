@@ -8,6 +8,7 @@
 
 This is a list showing the GitHub usernames of all who have contributed to this open-source project! **Make sure to add yourself and submit a pull request if you've contributed.**
 
+- [@hanzili](https://github.com/hanzili)
 - [@8xu](https://github.com/8xu)
 - [@surajdm123](https://github.com/surajdm123)
 - [@navidcodes](https://github.com/navidcodes)
