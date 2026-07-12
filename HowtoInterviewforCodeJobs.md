@@ -56,6 +56,8 @@
 
 - [Pramp](https://www.pramp.com/): A free tool built to provide the complete interview practice you need from Technical to behavioral interviews.
 
+- [Showcase](https://app.tryshowcase.ink/?utm_source=zero_to_mastery&utm_medium=community_resource&utm_campaign=direct100_20260710&utm_content=resources_interview_tools): Turns a résumé into an editable, evidence-first portfolio with in-account feedback and interview practice. Free accounts can build, edit, and preview privately; publishing requires Pro.
+
 #### Coding Challenges
 
 - [Codewars](https://www.codewars.com/): A place to challenge yourself and hone your coding skills. See if you can find any fellow ZTM students on there and team up!
