@@ -156,6 +156,8 @@ Things to look for if your editor has implementations for them. They will make y
 
 - [Neumorphism](https://neumorphism.io/): A tool to generate soft-UI CSS code for neumorphic card designs.
 
+- [CSS Media Query Generator](https://alltoolsverse.com/tools/css-media-query-generator/): Build responsive CSS media queries from device presets or custom conditions and preview the generated CSS and SCSS.
+
 ---
 
 ## Web Publishing
